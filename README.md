@@ -15,7 +15,7 @@
 3. A video recording of a typical jam session with the system 
 
 
-        https://vimeo.com/manage/videos/706414714
+        https://vimeo.com/706414714
     
     
 4. Audio Recordings of some Jams & Generations using the system
