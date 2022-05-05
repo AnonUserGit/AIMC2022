@@ -1,27 +1,27 @@
-#Supplementary Docs
+# Supplementary Docs
 
 1. A detailed overview of the training process
 
     
-    https://github.com/AnonUserGit/AIMC2022/blob/main/Detailed%20Training%20Overview.pdf
+        https://github.com/AnonUserGit/AIMC2022/blob/main/Detailed%20Training%20Overview.pdf
     
     
 2. A Tutorial on how to use the system
 
 
-    https://vimeo.com/706414509
+        https://vimeo.com/706414509
     
     
 3. A video recording of a typical jam session with the system 
 
 
-    https://vimeo.com/manage/videos/706414714
+        https://vimeo.com/manage/videos/706414714
     
     
 4. Audio Recordings of some Jams & Generations using the system
 
 
-    https://soundcloud.com/anonomy-submer/sets/generations-using-the-system
+        https://soundcloud.com/anonomy-submer/sets/generations-using-the-system
 
       
 
