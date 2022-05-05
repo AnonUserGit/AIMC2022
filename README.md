@@ -40,7 +40,7 @@ In this work, we use a transformer encoder with a direct representation to conve
 To track the learning and metrics of the model we have used the [wandb](https://wandb.ai/) library and API. You can find
 all our experiment runs in this [wandb project](https://wandb.ai/[anon]).
 
-To try some of our trained models out, you can check out our [colab notebook](./Transformer_Groove_Tap2Drum_Demo.ipynb).
+To try some of our trained models out, you can check out our [colab notebook](./AIMC2022_Demo.ipynb).
 
 If you want to get the train script running locally, make sure to
 1. Install our conda environment (using [environment.yml](./environment.yml)) to get all dependencies, or download all dependencies and install them through `pip`.
